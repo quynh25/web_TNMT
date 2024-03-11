@@ -1,0 +1,14 @@
+.bg-custom{
+    background-color: #68924a !important;
+}
+.fs-small{
+    font-size: 13px;
+}
+.bg-page-item{
+    background-color: rgb(203, 245, 219);
+    color: black;
+}
+a .page-link:nth-child(2):hover{
+   
+    background-color: inherit ;
+}
